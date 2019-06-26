@@ -1,2 +1,2 @@
 # devnagri_opencv
-##Technique used:
+## Technique used:
