@@ -8,3 +8,6 @@ For testing through webcam: application_cv2.py .
 
 #### Testing model on images
 trial.py with 3547.png
+
+### Emojinator
+<img src="https://github.com/cubicle-SK/devnagri_opencv/devnagri_ext.mov">
