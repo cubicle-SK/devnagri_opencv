@@ -10,3 +10,5 @@ loss: 0.0121 - acc: 0.9959 - val_loss: 0.1010 - val_acc: 0.9795
 #### Testing model on images
 trial.py with 3547.png
 
+#### Result
+![result](Devanagri_g.gif)
